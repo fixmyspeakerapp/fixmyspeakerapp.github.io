@@ -1,1 +1,1 @@
-{"name":"Fix My Speaker","short_name":"Fix My Speaker","icons":[{"src":"/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#1668e3","background_color":"#f5f9ff","display":"standalone","start_url":"/"}
+{"name":"Fix My Speaker","short_name":"Fix My Speaker","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#1668e3","background_color":"#f5f9ff","display":"standalone","start_url":"index.html"}
